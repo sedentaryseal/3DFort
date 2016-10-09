@@ -26,11 +26,11 @@ You can import this project into a workspace using "File > Import... > Existing 
 
 # Screenshots
 
-<img src="https://raw.githubusercontent.com/sedentaryseal/3DFort/master/scene.PNG" />
+<img src="https://raw.githubusercontent.com/sedentaryseal/3DFort/master/scene.png" />
 
-<img src="https://raw.githubusercontent.com/sedentaryseal/3DFort/master/orthographic_view.PNG" />
+<img src="https://raw.githubusercontent.com/sedentaryseal/3DFort/master/orthographic_view.png" />
 
-<img src="https://raw.githubusercontent.com/sedentaryseal/3DFort/master/explosion.PNG" />
+<img src="https://raw.githubusercontent.com/sedentaryseal/3DFort/master/explosion.png" />
 
 
 
